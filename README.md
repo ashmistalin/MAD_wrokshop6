@@ -89,7 +89,7 @@ MarkerOptions().position(saveethacollege).title("Marker in Chennai"));
 ```
 
 ## OUTPUT:
-
+![image](https://github.com/ashmistalin/MAD_wrokshop6/assets/103128410/ffddd6ea-5447-48ca-8ade-f51de829f974)
 
 
 ## RESULT:
